@@ -4,7 +4,6 @@
 [![NPM Version](https://img.shields.io/npm/v/refine-jsonapi.svg)](https://www.npmjs.com/package/refine-jsonapi)
 [![NPM Downloads](https://img.shields.io/npm/dt/refine-jsonapi.svg)](https://www.npmjs.com/package/refine-jsonapi)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MahirMahdi/refine-jsonapi)
-![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/MahirMahdi/refine-jsonapi)
 
 ![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/refine-jsonapi/peer/%40refinedev%2Fcore)
 ![npm type definitions](https://img.shields.io/npm/types/refine-jsonapi)
@@ -13,12 +12,10 @@
 
 ## Installation
 
-Install `refine-jsonapi` via npm or yarn:
+Install `refine-jsonapi` via npm:
 
 ```bash
 npm install refine-jsonapi
-# or
-yarn add refine-jsonapi
 ```
 
 ## Usage
